@@ -13,10 +13,6 @@ export default function Navbar() {
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="/">Invoice</a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/transaction">Transactions</a>
-              </li>
-              
             </ul>
            
           </div>
