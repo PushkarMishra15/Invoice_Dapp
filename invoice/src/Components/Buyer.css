@@ -1,0 +1,48 @@
+.body{
+    color: red;
+}
+
+
+.Econtainer1{
+    position: relative;
+    margin: 20px 541px;
+    
+}
+
+.Ebtn{
+    display: block;
+    width: 70%;
+    border: none;
+    position: relative;
+    margin: 40px 80px;
+    left: -20px;
+    background-color: #04b474;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 6px 0px;
+
+}
+.Ebtn:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.Econtainer{
+    font-weight: bold;
+}
+
+.contract{
+    margin:10px 110px;
+}
+.address{
+    margin: 10px 30px;
+    font-weight: 500;
+}
+.Estatus{
+    position: relative;
+    font-weight: 600;
+    bottom: 400px;
+    right: 320px;
+}
